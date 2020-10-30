@@ -1,0 +1,9 @@
+.page-not-found {
+  width: 100vw;
+}
+
+.page-not-found > h2 {
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+}
